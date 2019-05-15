@@ -1,0 +1,32 @@
+﻿  Uic'ing ComputerZ.ui...
+  Rcc'ing ComputerZ.qrc...
+  Moc'ing ComputerZ.h...
+   RCC: Warning: No resources in 'f:\documents\visual studio 2015\Projects\ComputerZ\ComputerZ\ComputerZ.qrc'.
+  ComputerZ.cpp
+  main.cpp
+  Tools.cpp
+  qrc_ComputerZ.cpp
+  moc_ComputerZ.cpp
+Tools.cpp(18): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+Tools.cpp(20): error C2065: “mov”: 未声明的标识符
+Tools.cpp(20): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+Tools.cpp(20): error C2065: “eax”: 未声明的标识符
+Tools.cpp(22): error C2146: 语法错误: 缺少“;”(在标识符“cpuid”的前面)
+Tools.cpp(22): error C2065: “cpuid”: 未声明的标识符
+Tools.cpp(22): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+Tools.cpp(22): error C2065: “mov”: 未声明的标识符
+Tools.cpp(22): error C2146: 语法错误: 缺少“;”(在标识符“tmpDeax”的前面)
+Tools.cpp(23): error C2065: “eax”: 未声明的标识符
+Tools.cpp(23): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+Tools.cpp(23): error C2065: “mov”: 未声明的标识符
+Tools.cpp(23): error C2146: 语法错误: 缺少“;”(在标识符“tmpDebx”的前面)
+Tools.cpp(24): error C2065: “ebx”: 未声明的标识符
+Tools.cpp(24): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+Tools.cpp(24): error C2065: “mov”: 未声明的标识符
+Tools.cpp(24): error C2146: 语法错误: 缺少“;”(在标识符“tmpDecx”的前面)
+Tools.cpp(25): error C2065: “ecx”: 未声明的标识符
+Tools.cpp(25): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+Tools.cpp(25): error C2065: “mov”: 未声明的标识符
+Tools.cpp(25): error C2146: 语法错误: 缺少“;”(在标识符“tmpDedx”的前面)
+Tools.cpp(26): error C2065: “edx”: 未声明的标识符
+Tools.cpp(26): error C2143: 语法错误: 缺少“;”(在“}”的前面)
